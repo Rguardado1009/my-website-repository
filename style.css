@@ -1,0 +1,34 @@
+body {
+    background: white;
+  }
+.topnav {
+    background-color: navajowhite;
+    overflow: hidden
+  }
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+#name{
+    background-color: cornsilk;
+    text-align: auto;
+}
+table{
+    background-color: beige;
+    border-collapse: collapse;
+  }
+th {
+    background-color: #800020;
+    Color:beige;
+}
+th, td {
+    width:150px;
+    text-align:center;
+    border:1px solid black;
+    padding:5px
+  
+}
